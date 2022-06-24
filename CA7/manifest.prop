@@ -1,4 +1,4 @@
-MANIFEST_VERSION = openstlinux-5.10-dunfell-mp1-21-11-17
-KERNEL_DT = ./DeviceTree/V730i/kernel
-UBOOT_DT = ./DeviceTree/V730i/u-boot
-TFA_DT = ./DeviceTree/V730i/tf-a
+MANIFEST_VERSION = openstlinux-5.10-dunfell-mp1-21-03-31
+KERNEL_DT = ./DeviceTree/v510-dsi-emmc/kernel
+UBOOT_DT = ./DeviceTree/v510-dsi-emmc/u-boot
+TFA_DT = ./DeviceTree/v510-dsi-emmc/tf-a

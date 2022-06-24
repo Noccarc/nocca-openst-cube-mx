@@ -8,5 +8,4 @@
  * https://wiki.st.com/stm32mpu/wiki/Category:Device_tree_configuration
  */
 
-#define DDR_SIZE	0x20000000 /* 512MB */
-#include "stm32mp15-fw-config.dts"
+#include "stm32mp15-ddr-512m-fw-config.dts"
